@@ -1,0 +1,14 @@
+Name: Daniel Martinez
+CRUZID: dafemart@ucsc.edu
+Assg5
+
+RUN SERVER:
+
+cixd port
+
+
+RUN CLIENT:
+
+cix port
+
+Make sure you are logged in on the same machine
